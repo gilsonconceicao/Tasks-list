@@ -1,0 +1,29 @@
+.form_tasks {
+    display: block;
+    max-width: 500px;
+    text-align: center;
+    margin: 5vh auto;
+}
+
+.form_tasks button {
+  margin: 20px 0 ;
+}
+
+.textInput {
+    display: block;
+    padding: 20px;
+}
+
+.form_tasks h1 {
+    font-size: 3em;
+}
+
+@media screen  and (max-width: 554px) {
+  .form_tasks {
+    padding: 10vh 10px;
+  }  
+
+  .form_tasks {
+    margin: 0;
+  }
+}

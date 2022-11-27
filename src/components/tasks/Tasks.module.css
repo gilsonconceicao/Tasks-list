@@ -1,0 +1,19 @@
+.tasks {
+    display: block;
+    margin-left:20px; 
+}
+
+.itemsList {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.containerTasks {
+    display: block;
+    max-width:500px;
+    margin: auto auto auto auto; 
+}
+
+.tasks button {
+    float: right;
+}
