@@ -15,6 +15,7 @@ How to run the project:
 - At the terminal:  
   - npm install (for install the dependeces of project); 
   - npm run dev (run project the browser); 
+  - After gerate link, segura o ctrl + click no link;
   
   
 Hope you like it 🚀
